@@ -1,0 +1,56 @@
+body{
+    background-color: #00ffcc;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(172, 21, 21);
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+
+div{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 70, 41);
+}
+
+#menuBG{
+    width: 400px;
+    height: 470px;
+    margin: 10px auto;
+}
+
+#frmMenu{
+    width: 600px;
+    height: 200px;
+    margin-left: -100px;
+}
+
+#totalPrice{
+    width: 200px;
+    height: 190px;
+    margin: 0 auto;
+    float: right;
+}
+
+.left{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.right{
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+#showText{
+    width: 200px;
+    height: 190px;
+    margin: 0 auto;
+    float: left;
+}

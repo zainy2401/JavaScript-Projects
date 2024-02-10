@@ -1,0 +1,31 @@
+.center-container{
+    width: 608px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+table{
+    border-collapse: collapse;
+    border-style: hidden;
+}
+
+td{
+    cursor: pointer;
+    border: 5px solid #30ba33;
+    padding: 0px;
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+canvas{
+    position: absolute;
+    z-index: 10;
+    pointer-events: none;
+}
+
+h1, h2{
+    text-align: center;
+    margin: 50px 0;
+}
